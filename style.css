@@ -1,0 +1,26 @@
+.one {
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: blanchedalmond;
+    text-align: center;
+    justify-content: center;
+    border-color: aqua;
+    border-width: 4px;
+    border-style: solid;
+    padding-bottom: 20px;
+    
+
+   
+
+}
+
+div img{
+    width: 400px;
+    height: 300px;
+    border: 3px;
+    border-style: solid;
+    border-color: brown;
+       
+}
